@@ -1,9 +1,20 @@
 <div align="center">
 
 ### Hello, World
-#### Full Stack Developer | Geek Mode
+#### AI Full Stack Developer | Deek Mode
+```ascii
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&lines=Hacking+Tencent+With+C">
+                 █████                                        █████
+                ░░███                                        ░░███ 
+ █████████████   ░███ █████  ██████    ██████    ██████    ███████ 
+░░███░░███░░███  ░███░░███  ░░░░░███  ░░░░░███  ░░░░░███  ███░░███ 
+ ░███ ░███ ░███  ░██████░    ███████   ███████   ███████ ░███ ░███ 
+ ░███ ░███ ░███  ░███░░███  ███░░███  ███░░███  ███░░███ ░███ ░███ 
+ █████░███ █████ ████ █████░░████████░░████████░░████████░░████████
+░░░░░ ░░░ ░░░░░ ░░░░ ░░░░░  ░░░░░░░░  ░░░░░░░░  ░░░░░░░░  ░░░░░░░░ 
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&lines=Hacking+Tencent+With+C&center=true&width=500">
 
 <br>
 
@@ -25,15 +36,6 @@
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaaad&layout=compact&theme=dark&hide_border=true">
 
 <br><br>
-
-```ascii
-┌────────────────────────────┐
-│  Editor  : NeoVim          │
-│  OS      : Linux           │
-│  Mode    : Geek ON         │
-│  Debug   : Permanent       │
-└────────────────────────────┘
-```
 
 
 </div>
