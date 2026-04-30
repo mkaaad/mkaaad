@@ -14,7 +14,7 @@
 ░░░░░ ░░░ ░░░░░ ░░░░ ░░░░░  ░░░░░░░░  ░░░░░░░░  ░░░░░░░░  ░░░░░░░░ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&lines=Hacking+Tencent+With+C&center=true&width=500">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&lines=Hacking+Tencent+With+C;Making+Ideas+Come+True&center=true&width=500">
 
 <br>
 
