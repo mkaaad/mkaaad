@@ -32,9 +32,6 @@
 
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkaaad&theme=dark&hide_border=true">
 
-<br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkaaad&layout=compact&theme=dark&hide_border=true">
 
 <br><br>
 
