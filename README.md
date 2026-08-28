@@ -28,7 +28,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&lines=Hacking+Tencent+With+C;Making+Ideas+Come+True&center=true&width=500">
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 
