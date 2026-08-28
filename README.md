@@ -30,11 +30,9 @@
 
 <br><br>
 
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkaaad&theme=dark&hide_border=true">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <br><br>
 
-
-</div>
 
