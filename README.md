@@ -14,14 +14,6 @@
 ░░░░░ ░░░ ░░░░░ ░░░░ ░░░░░  ░░░░░░░░  ░░░░░░░░  ░░░░░░░░  ░░░░░░░░ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&lines=Hacking+Tencent+With+C;Making+Ideas+Come+True&center=true&width=500">
-
-<br>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br>
-
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=121212">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=121212">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=121212">
@@ -31,7 +23,12 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&labelColor=121212">
 <img src="https://img.shields.io/badge/Vim-019833?style=flat-square&logo=vim&logoColor=white&labelColor=121212">
 
-
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ee599&lines=Hacking+Tencent+With+C;Making+Ideas+Come+True&center=true&width=500">
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
